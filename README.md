@@ -1,6 +1,6 @@
 # Hey ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 # 💫 About Me:
-🔭 I’m a Btech Student .<br>🌱 I’m currently learning Computer Science and Engineering<br>💬 Ask me about my plans.<br>
+🔭 I’m a Btech Student .<br>🌱 I’m currently learning Computer Science and Engineering.<br>💬 Ask me about my plans.<br>
 
 
 ## 🌐 Socials:
